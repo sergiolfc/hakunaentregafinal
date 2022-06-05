@@ -1,0 +1,15 @@
+.videos{
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    }
+
+    @media  (max-width:768px) {
+        .videos {
+            width:300px;
+        }
+   
+    }

@@ -1,0 +1,16 @@
+.logofechas{
+    @include sizes(200px,200px); 
+  
+}
+.mb-3{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    background-color: rgba(255, 255, 255, 0);
+
+}
+.card-body{
+    color: antiquewhite;
+    text-align: center;
+    margin-top: 30PX;
+}

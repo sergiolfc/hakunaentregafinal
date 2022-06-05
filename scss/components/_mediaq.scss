@@ -1,0 +1,56 @@
+@media  (max-width:768px) {
+    .column{
+        flex: 100%;
+    }
+    .carrusel{
+        width: 100%;
+        margin-top: 15px;
+        margin-left: 0%;
+        }
+    .logobanda{
+        margin-left: 82%;
+        }
+     
+    .footernuevo{
+        display:grid;
+        columns: 1fr;
+    }
+    .text-white{
+      font-size: 20px;
+      align-items: center;
+    }
+    .textoFooter{
+        text-align: center;
+    }
+    .nav-item{
+       height: 50px;
+    }
+    .titulo{
+        font-size: 25px;
+        margin-top: -50px;
+        
+      }
+      .imagenIndex{
+          width:300px;
+      }
+      .logobanda{
+        width: 50px;
+      }
+      .nav-item{
+        font-size: large;
+      
+    }
+    .galeria{
+        width: 100%;
+        margin-top: 50px;
+        grid-template-columns: 1fr ;
+    
+    }
+    
+}
+@media  (min-width:768px) {
+    .logobanda{
+        margin-left:80%;
+
+    }
+}

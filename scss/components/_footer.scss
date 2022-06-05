@@ -1,0 +1,35 @@
+
+.iconosredes{
+    width: 35px;
+    height: 35px;
+    margin-inline-end: 20px;
+    margin-top:20px;
+    transition: 300ms;
+    margin-left:20px
+}
+
+.iconosredes:hover{
+    transform: scale(1.5)
+}
+.textoFooter{
+    color: rgb(255, 255, 255);  
+    font-size:20px;
+    margin-top: 30px;  
+
+    
+}      
+ 
+.footernuevo{
+  
+    width: 100%;
+    margin-top: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 10px;
+    justify-content: center;
+  
+    	
+    
+}
+    

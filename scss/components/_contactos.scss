@@ -1,0 +1,22 @@
+.mainContactos {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.tituloContacto{
+    margin-top: 60px;
+    text-align: center;
+    color:map-get($estilos, letras)
+}
+
+.textoContacto{
+    margin-top: 60px;
+    text-align: center;
+    color:map-get($estilos, letras); 
+    
+    
+}
+.form{
+    color:aliceblue
+}

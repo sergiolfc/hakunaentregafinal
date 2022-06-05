@@ -1,0 +1,19 @@
+
+    
+.fotos{
+    width: 100%;
+}
+.fotos img{
+    width: 100%;
+    margin: 30px;
+}
+
+.galeria{
+    
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 20px;
+    column-gap: .5rem;
+    row-gap: .5rem;
+}
